@@ -3,7 +3,11 @@
   <img src="img/logobg.png" alt="logo" width="150px" style="display: block; margin:  0 auto;"/>
 </p>
 
-[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
+<p align="center">
+  <a href="https://opensource.org/licenses/">
+    <img src="https://img.shields.io/badge/License-GPL%20v3-yellow.svg" alt="GPLv3 License"/>
+  </a>
+</p>
 
 # OrientA - Ayudas a tu Alcance
 
