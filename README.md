@@ -9,8 +9,6 @@
   <a href="https://github.com/apaz-dev/alpara/issues">
     <img src="https://img.shields.io/github/issues/apaz-dev/alpara.svg?style=for-the-badge" alt="Issues"></a>
   <a href="https://github.com/apaz-dev/alpara/network/members">
-    <img src="https://img.shields.io/github/forks/apaz-dev/alpara.svg?style=for-the-badge" alt="Forks"></a>
-  <a href="https://github.com/apaz-dev/alpara/blob/main/LICENSE">
     <img src="https://img.shields.io/github/license/apaz-dev/alpara.svg?style=for-the-badge" alt="License"></a>
   <a href="https://github.com/apaz-dev/alpara/blob/main/commits/main/">
     <img src="https://img.shields.io/github/last-commit/apaz-dev/alpara.svg?style=for-the-badge" alt="Last Commit"></a>
